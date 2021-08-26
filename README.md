@@ -1,5 +1,9 @@
 # Crypto Coins Market with Reactjs and CoinGecko API
 
+![Crypto Coins Market - Principal Page](/docs/principal-page.png)
+
+![Crypto Coins Market - Searching Coins](/docs/searching-coin.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
